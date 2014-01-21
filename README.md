@@ -3,12 +3,13 @@
 
 載入JS
 
+"
 <script src="{TAG_FILE_ROOT}tinymce/tinymce.min.js" type="text/javascript"></script>
 <script src="{TAG_FILE_ROOT}tinymce/config.js" type="text/javascript"></script>
 <script>
 	tiny_load({TAG_FILE_ROOT});
 </script>
-
+"
 
 tiny_box 設定
 
